@@ -1,0 +1,8 @@
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<section id="turnglobe">
+  
+<div id="worldmap"></div>
+<p id="globesarecool">Because Globes are cool!</p>
+  
+</section>
